@@ -1,0 +1,14 @@
+body {
+  background: linear-gradient(to right, brown, #cf5b00);
+}
+
+.tombol {
+  display: inline-block;
+  background: linear-gradient( to right, black, maroon);
+  color: white;
+  text-decoration: none;
+  padding: 15px;
+  border-radius: 15px 15px;
+  margin 10px
+  font-family: fantasy;
+}
